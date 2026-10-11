@@ -8,5 +8,5 @@ def status_of(percent, warning_at):
         return "WARNING"
     else:
         return "OK"
-
-print(status_of(95))
+# the function requires two arguments, but only one is provided so i added 80 as the second argument
+print(status_of(95,80))
