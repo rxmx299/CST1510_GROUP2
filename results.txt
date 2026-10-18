@@ -1,3 +1,0 @@
-survey_2026,WARNING
-images_2026,OVER LIMIT
-reviews_2026,OK
