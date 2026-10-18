@@ -86,7 +86,7 @@ except FileNotFoundError:
 
 over_count = 0
 
-with open("results.txt", "w") as f:
+with open("dataset_results.txt", "w") as f:
     for record in records:
         # calculate the results for this record
         difference, percent, status = check_record(
