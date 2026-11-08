@@ -1,0 +1,6 @@
+dataset,rows_loaded,rows_expected,percent,status
+student_attendance,28,30,93.33333333333333,WARNING
+exam_results,25,30,83.33333333333334,OK
+library_books,110,100,110.00000000000001,OVER LIMIT
+course_feedback,40,50,80.0,OK
+club_members,20,20,100.0,OVER LIMIT
